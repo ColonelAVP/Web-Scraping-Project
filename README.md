@@ -49,5 +49,6 @@ Step11. When the game is over, ask the player if they want to play again.
 ```
 
 ## Reference
-**Used Website** ==> [Quotes-to-Scrape](http://quotes.toscrape.com/)
-I have also uploaded the csv file, in which I've stored the scraped data [qoutes1.csv](https://github.com/ColonelAVP/Web-Scraping-Project/blob/master/quotes1.csv):
+**Used Website** ==> [Quotes-to-Scrape](http://quotes.toscrape.com/).
+
+I have also uploaded the csv file, in which I've stored the scraped data [qoutes1.csv](https://github.com/ColonelAVP/Web-Scraping-Project/blob/master/quotes1.csv)
