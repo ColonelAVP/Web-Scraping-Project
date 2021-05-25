@@ -5,21 +5,22 @@ When run, your program will scrape a website for a collection of quotes.
 Pick one at random and display it. The player will have four chances to guess who said the quote. 
 After every wrong guess they'll get a hint about the author's identity.
 
-Concept used in this project:
+>Concept used in this project:
 * Web Scraping
 
-Tools and Technology used:
+>Tools and Technology used:
 * Python
 * Beautiful Soup for extracting data from HTML
 * Requests to make HTTP requests
 
 
-### Note 
+>Note 
+
 Before starting with the steps, one important thing. 
 For the purpose of Web scraping, Ideally it is recommended to use websites that allow you to scrape data.
 Not every websites take action, but there are some which may get you banned. So check websites before using.
 
-> Installation Guide:
+>Installation Guide:
 ``pip install beautifulsoup4``
   
 ## Steps
