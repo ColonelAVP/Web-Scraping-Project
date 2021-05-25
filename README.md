@@ -16,7 +16,7 @@ Tools and Technology used:
 
 ### Note 
 Before starting with the steps, one important thing. 
-For the purspose of Web scraping, Ideally it is recommended to use websites that allow you to scrape data.
+For the purpose of Web scraping, Ideally it is recommended to use websites that allow you to scrape data.
 Not every websites take action, but there are some which may get you banned. So check websites before using.
 
 > Installation Guide:
