@@ -24,7 +24,7 @@ Not every websites take action, but there are some which may get you banned. So 
 ``pip install beautifulsoup4``
   
 ## ▶️ Steps
-```Python
+```
 Step1: Create a file called `scrape_data.py` which, when run, grabs data on every quote from the website.
 Step2: You can use `bs4` and `requests` to get the data. 
        For each quote you should grab the following;
